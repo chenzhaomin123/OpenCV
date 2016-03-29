@@ -1,1 +1,1 @@
-<font face="ΊΪΜε" size=7>Opencv ΄ϊΒλΏβ</font>
+ο»Ώ<font face="ι»‘δ½“" size=7>Opencv δ»£η εΊ“</font>
